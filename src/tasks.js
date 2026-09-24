@@ -1,4 +1,4 @@
-// CampusEats task list
+// CampusEats task calculation
 
 const VIP_DISCOUNT = 0.1;
 
